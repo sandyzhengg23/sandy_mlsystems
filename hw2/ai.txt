@@ -1,0 +1,13 @@
+AI Acknowledgement
+
+I used an AI assistant (Gemini) to:
+
+Troubleshooting file path issues, relative parent directory navigation, and runtime index errors across local execution environments.
+
+Structuring the tabular feature extractor for early packet classification, including zero-padding short traces and column reindexing.
+
+Designing the Random Forest evaluation code to run both synthetic-to-real and real-to-synthetic experiments.
+
+Refining the conceptual answers regarding 2D spatial encodings, grayscale versus RGB representations, and diffusion artifacts.
+
+Synthesizing the final classification metrics and feature importances into clear summary findings.
